@@ -4,7 +4,6 @@ import com.example.demo.dao.PersonDao;
 import com.example.demo.model.Person;
 
 public class PersonService {
-
     private final PersonDao personDao;
 
     public PersonService(PersonDao personDao) {
